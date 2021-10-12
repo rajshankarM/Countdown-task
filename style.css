@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+   background-color: azure;
+}
+
+.msg{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 300px;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
